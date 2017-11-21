@@ -21,6 +21,6 @@
 
 4. pip install -r requirements.txt # 安装依赖
 
-5. python app # 开启服务
+5. python app.py # 开启服务
 
 ````
