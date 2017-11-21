@@ -23,4 +23,6 @@
 
 5. python app.py # 开启服务
 
+6. 访问 http://localhost:5000/data/ 查看预览
+
 ````
